@@ -1,5 +1,8 @@
-![Data Analyst Banner](https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif)
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f3443,100:34e89e&height=200&section=header&%20&fontSize=40&fontColor=ffffff)
+
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
 
 
 # 💫 Hi 👋, I'm Naveen Sahani
@@ -20,6 +23,9 @@ Best practices in **Data Analytics** and **Machine Learning project exposure**
 ### ⚡ Fun fact:
 I love turning **raw data** into **meaningful stories and actionable insights** 📊
 
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
+
+
 <div align="center">
 
 
@@ -29,7 +35,8 @@ I love turning **raw data** into **meaningful stories and actionable insights** 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/64h9cuxxK) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.naveensahani@gmail.com) 
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -49,26 +56,33 @@ I love turning **raw data** into **meaningful stories and actionable insights** 
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=naveensahani&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=naveensahani&theme=dark&hide_border=false)<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenSahani&layout=compact&theme=tokyonight" width="50%" />
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
+
 
 <!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
----
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naveensahani&theme=react-dark&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true)
+
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=naveensahani&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -76,6 +90,8 @@ I love turning **raw data** into **meaningful stories and actionable insights** 
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=naveensahani&color=blueviolet&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/naveensahani?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/naveensahani?style=for-the-badge)
 
 
 
