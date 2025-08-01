@@ -1,3 +1,5 @@
+![Data Analyst Banner](https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif)
+
 
 
 # 💫 Hi 👋, I'm Naveen Sahani
