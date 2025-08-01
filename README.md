@@ -1,5 +1,9 @@
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f3443,100:34e89e&height=200&section=header&%20&fontSize=40&fontColor=ffffff)
+<!-- 🌟 Animated Header -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f3443,100:34e89e&height=200&section=header&fontSize=40&fontColor=ffffff)
+
+<!-- 👨‍💻 Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFCC&width=500&lines=AI+Enabled+Data+Analyst+🤖;SQL+%7C+Power+BI+%7C+Python+%7C+ML;Transforming+Data+into+Actionable+Insights+)](https://git.io/typing-svg)
 
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
