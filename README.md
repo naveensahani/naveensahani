@@ -23,8 +23,6 @@ Best practices in **Data Analytics** and **Machine Learning project exposure**
 ### ⚡ Fun fact:
 I love turning **raw data** into **meaningful stories and actionable insights** 📊
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2)
-
 
 <div align="center">
 
