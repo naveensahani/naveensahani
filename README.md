@@ -17,12 +17,6 @@ Best practices in **Data Analytics** and **Machine Learning project exposure**
 ### 💬 Ask me about:
 **SQL**, **Data Cleaning**, **Dashboards**, **Data-Driven Decision Making**  
 
-### 📫 How to reach me:
-📩 **naveensahani.work@domain.com**  
-
-### 😄 Pronouns:
-**He/Him**  
-
 ### ⚡ Fun fact:
 I love turning **raw data** into **meaningful stories and actionable insights** 📊
 
@@ -50,8 +44,11 @@ I love turning **raw data** into **meaningful stories and actionable insights** 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=naveensahani&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=naveensahani&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![Profile Views](https://komarev.com/ghpvc/?username=naveensahani&color=blueviolet&style=for-the-badge)
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
