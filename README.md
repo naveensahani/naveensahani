@@ -43,12 +43,11 @@ I love turning **raw data** into **meaningful stories and actionable insights** 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=naveensahani&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- 🎮 Data Analyst Game Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/NaveenSahani/naveen-profile-animations/output/data-quest-animation.svg" 
-       alt="Data Quest - Data Analyst Game Animation" width="90%" />
-</div>
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 ### ✍️ Random Dev Quote
